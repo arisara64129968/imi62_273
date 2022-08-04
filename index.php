@@ -1,7 +1,4 @@
 <?php
-$name = "ARISARA JIAMSAKUL";
-$sid = "64129968";
-echo "Hello ".$name;
-echo "ID : ".$sid;
-
+$name = "watcharawalee Junapong";
+$sid = "64112758";
 ?>
